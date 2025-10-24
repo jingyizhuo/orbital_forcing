@@ -22,4 +22,7 @@ GFDL model also provide similar simulations
 2. CESM & CESM-FA: need to run simulations
 
 3. FLOR & FLOR-FA: need to run simulations
+
+## Reference
+https://journals.ametsoc.org/view/journals/clim/38/22/JCLI-D-25-0065.1.xml
  
