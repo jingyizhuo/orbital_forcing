@@ -9,7 +9,9 @@ Beyond paleoclimate relevance, this work establishes a conceptual link between p
 
 ## Method
 V trend plot
+
 SST trend plot
+
 U, V, SST, W relationship plot
 
 ## Data
